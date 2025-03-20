@@ -19,8 +19,8 @@
         </organization>
     </organizations>
     <resources>
-        <resource identifier="SCO-RESOURCE" adlcp:scormType="sco" type="webcontent" href="index.html">
-                        <file href="index.html" />
+        <resource identifier="SCO-RESOURCE" adlcp:scormType="sco" type="webcontent" href="index3.html">
+                        <file href="index3.html" />
                         <file href="\adlcp_rootv1p2.xsd" />
                         <file href="\imscp_rootv1p1p2.xsd" />
                         <file href="\imsmd_rootv1p2p1.xsd" />
